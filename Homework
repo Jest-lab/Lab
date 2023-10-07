@@ -1,0 +1,56 @@
+# Title of the Notebook
+
+## Introduction
+
+This notebook covers various concepts in data science and provides examples to help you understand them better.
+
+## Data Science Languages
+
+- Python
+- R
+- SQL
+- Julia
+- SAS
+
+## Data Science Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Data Science Tools
+
+| Tool        | Description                          |
+|-------------|--------------------------------------|
+| Jupyter     | Interactive computing environment     |
+| Tableau     | Data visualization tool               |
+| Power BI    | Business analytics tool               |
+| TensorFlow  | Open-source machine learning library  |
+| Spark       | Distributed data processing engine   |
+
+## Arithmetic Expression Examples
+
+In this section, we'll explore examples of arithmetic expressions and their results.
+
+# Multiply and Add Numbers
+result1 = 5 * 10
+result2 = 20 + 30
+
+result1, result2
+
+# Convert Minutes to Hours
+minutes = 120
+hours = minutes / 60
+
+hours
+
+## Objectives
+
+1. Learn about data science languages and libraries.
+2. Understand basic arithmetic expressions and operations.
+3. Familiarize with data science tools and their applications.
+
+## Author
+Jose Carlos Estrada Avila
